@@ -1,5 +1,5 @@
 # AI_For_Business_Curriculum
-This is the curriculum for the "AI for Business" Course By Siraj Raval on Youtube
+This is the curriculum for the "AI for Business" Course By Siraj Raval on Youtube. This course is in progress, I will update it as I go. 
 
 ## Week 1 Healthcare 
 - [Medical Imaging Classification](https://youtu.be/DCcmFXXAHf4)
