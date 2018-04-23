@@ -6,22 +6,22 @@ This is the curriculum for the "AI for Business" Course By Siraj Raval on Youtub
 - [Drug Discovery](https://youtu.be/hY9Bc3mtphs)
 
 ## Week 2 Finance
-- Anomaly Detection
+- Fraud Detection
 - Market Prediction
 
 ## Week 4 Marketing
-- Chatbots
-- Optimizing Content
+- Customer Service Chatbots
+- Optimizing Content for Your Audience (Conversion Maximization)
 
 ## Week 5 Logistics
 - Optimal Supply Chain Routing
 - Autonomous Vehicles
 
 ## Week 6 Recruiting
-- Scheduling
-- Screening
+- Scheduling (Optimizing the Candidate Pipeline) 
+- Screening Candidates with AI
 
 ## Week 7 Entertainment
-- GANs for Music/Image Generation
+- GANs for Music/Image Generation 
 - Animation 
 
