@@ -2,8 +2,8 @@
 This is the curriculum for the "AI for Business" Course By Siraj Raval on Youtube
 
 ## Week 1 Healthcare 
--Medical Imaging Classification
--Drug Discovery
+- Medical Imaging Classification
+- Drug Discovery
 
 ## Week 2 Finance
 -Anomaly Detection
