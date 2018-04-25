@@ -9,19 +9,25 @@ This is the curriculum for the "AI for Business" Course By Siraj Raval on Youtub
 - Fraud Detection
 - Market Prediction
 
-## Week 4 Marketing
+## Week 3 Marketing
 - Customer Service Chatbots
 - Optimizing Content for Your Audience (Conversion Maximization)
 
-## Week 5 Logistics
+## Midterm Assignment
+TBD
+
+## Week 4 Logistics
 - Optimal Supply Chain Routing
 - Autonomous Vehicles
 
-## Week 6 Recruiting
+## Week 5 Recruiting
 - Scheduling (Optimizing the Candidate Pipeline) 
 - Screening Candidates with AI
 
-## Week 7 Entertainment
+## Week 6 Entertainment
 - GANs for Music/Image Generation 
 - Animation 
+
+## Final Assignment
+TBD
 
