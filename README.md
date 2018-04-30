@@ -28,6 +28,10 @@ TBD
 - GANs for Music/Image Generation 
 - Animation 
 
+## Week 7 Education
+- Teaching
+- Grading 
+
 ## Final Assignment
 TBD
 
