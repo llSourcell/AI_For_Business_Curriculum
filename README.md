@@ -6,8 +6,8 @@ This is the curriculum for the "AI for Business" Course By Siraj Raval on Youtub
 - [Drug Discovery](https://youtu.be/hY9Bc3mtphs)
 
 ## Week 2 Finance
-- Fraud Detection
-- Market Prediction
+- [Fraud Detection](https://youtu.be/UNgdIkuVC6g) 
+- [Market Prediction](https://www.youtube.com/edit?o=U&video_id=7vunJlqLZok) 
 
 ## Week 3 Marketing
 - Customer Service Chatbots
