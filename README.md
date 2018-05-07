@@ -13,16 +13,16 @@ This is the curriculum for the "AI for Business" Course By Siraj Raval on Youtub
 - [Customer Service Chatbots](https://www.youtube.com/watch?v=PXJtFc8DjsE&t=1s)
 - [Optimizing Content for Your Audience (Conversion Maximization)](https://www.youtube.com/watch?v=FYMjXD3G__Y)
 
-## Week 4 Logistics
-- Optimal Supply Chain Routing
-- Autonomous Vehicles
+## Week 4 Recruiting
+- Scheduling (Optimizing the Candidate Pipeline) 
+- Screening Candidates with AI
 
 ## Midterm Assignment
 TBD
 
-## Week 5 Recruiting
-- Scheduling (Optimizing the Candidate Pipeline) 
-- Screening Candidates with AI
+## Week 5 Logistics
+- Optimal Supply Chain Routing
+- Autonomous Vehicles
 
 ## Week 6 Entertainment
 - GANs for Music/Image Generation 
