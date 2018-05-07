@@ -10,15 +10,15 @@ This is the curriculum for the "AI for Business" Course By Siraj Raval on Youtub
 - [Market Prediction](https://www.youtube.com/edit?o=U&video_id=7vunJlqLZok) 
 
 ## Week 3 Marketing
-- Customer Service Chatbots
-- Optimizing Content for Your Audience (Conversion Maximization)
-
-## Midterm Assignment
-TBD
+- [Customer Service Chatbots](https://www.youtube.com/watch?v=PXJtFc8DjsE&t=1s)
+- [Optimizing Content for Your Audience (Conversion Maximization)](https://www.youtube.com/watch?v=FYMjXD3G__Y)
 
 ## Week 4 Logistics
 - Optimal Supply Chain Routing
 - Autonomous Vehicles
+
+## Midterm Assignment
+TBD
 
 ## Week 5 Recruiting
 - Scheduling (Optimizing the Candidate Pipeline) 
