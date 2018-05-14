@@ -14,11 +14,12 @@ This is the curriculum for the "AI for Business" Course By Siraj Raval on Youtub
 - [Optimizing Content for Your Audience (Conversion Maximization)](https://www.youtube.com/watch?v=FYMjXD3G__Y)
 
 ## Week 4 Recruiting
-- Scheduling (Optimizing the Candidate Pipeline) 
-- Screening Candidates with AI
+- [Scheduling (Optimizing the Candidate Pipeline)](https://youtu.be/nvLJq4GnCg4)
+- [Screening Candidates with AI](https://youtu.be/p3SKx5C04qg)
 
 ## Midterm Assignment
-TBD
+
+###### Build a text classifier using a Convolutional Neural Network! Use Tensorflow or Keras. 
 
 ## Week 5 Logistics
 - Optimal Supply Chain Routing
