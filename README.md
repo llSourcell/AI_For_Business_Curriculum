@@ -22,8 +22,8 @@ This is the curriculum for the "AI for Business" Course By Siraj Raval on Youtub
 ###### Build a text classifier using a Convolutional Neural Network! Use Tensorflow or Keras. 
 
 ## Week 5 Logistics
-- Optimal Supply Chain Routing
-- Autonomous Vehicles
+- [Optimal Supply Chain Routing](https://youtu.be/vwor9Fva1V4)
+- [Autonomous Vehicles](https://youtu.be/yt015gM-ync)
 
 ## Week 6 Entertainment
 - GANs for Music/Image Generation 
