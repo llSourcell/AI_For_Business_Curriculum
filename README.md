@@ -26,13 +26,10 @@ This is the curriculum for the "AI for Business" Course By Siraj Raval on Youtub
 - [Autonomous Vehicles](https://youtu.be/yt015gM-ync)
 
 ## Week 6 Entertainment
-- GANs for Music/Image Generation 
-- Animation 
-
-## Week 7 Education
-- Teaching
-- Grading 
+- [GANs for Music/Image Generation](https://www.youtube.com/watch?v=NS2eqVsnJKo)
 
 ## Final Assignment
-TBD
+
+###### Build a Generative Adversarial Network using Tensorflow to fulfill a business use case of your choice. 
+
 
